@@ -1,0 +1,2 @@
+# Case-Study-on-Classification-problem
+Subsidy Inc. delivers subsidies to individuals based on their income. Accurate income data is one of the hardest piece of data to obtain across the world. Subsidy Inc. has obtained a large data set of authenticated data on individual income, demographic parameters, and a few financial parameters. The objective is to simplify the data system by reducing the number of variables to be studies, without sacrificing too much of accuracy. 
